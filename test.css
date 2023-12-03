@@ -17,15 +17,15 @@ body {
 .navdiv {
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
+    margin-top: 11px;
     margin-bottom: 0;
 }
 .star {
-    margin-left: 30px;
+    margin-left: 32px;
 }
 
 .top-items {
-    margin-right: 500px;
+    margin-right: 550px;
 }
 li {
     display: inline-block;
@@ -41,7 +41,7 @@ a {
 }
 
 .card {
-    margin-left: 30px;
+    margin-left: 28px;
 }
 
 .list-group-item {
@@ -49,22 +49,22 @@ a {
 }
 
 .card ul li a {
-    color: rgb(16, 13, 13);
+    color: rgb(16, 15, 15);
 }
 
  .card ul li:hover {
-    background-color: grey;
+    background-color: gre;
     padding: 10px;
 }
 
-.container {
+.tin {
     display: flex;
     justify-content: space-around;
     margin: auto;
 }
 
 .Product-card{
-    width: 80%;
-    margin: 10px;
+    width: 75%;
+    margin: 9px;
     
 }
